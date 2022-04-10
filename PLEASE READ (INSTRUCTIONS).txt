@@ -1,0 +1,14 @@
+|''||''|                                                   
+   ||            ''                                            
+   ||    '||''|  ||  .|''|, .|''|, `||''|,                    
+   ||     ||     ||  ||  || ||  ||  ||  ||                     
+  .||.   .||.   .||. `|..|| `|..|' .||  ||                 
+                         ||                                
+                      `..|'                                
+___________________________________________________________
+STEPS:
+-/ Run all of the files one by one.
+-/ Do not install Bing Bar when installing Direct X.
+-/ When told to restart, click "Restart Later", only restart once all of the files are installed completely.
+-------------------------------------------------------------------------------------------------------------------------
+If there is any issues, you can reach out to us through the Support chat.
